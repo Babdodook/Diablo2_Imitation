@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NoWork
+  - Alpha
+  - Roof
+  - npc
+  - Shadow
+  - Skill_icebolt
+  - Skill_blaze
+  - Monster
+  - Skill_icestorm
+  - Skill_blizzard
+  - Skill_iceorb
+  - Skill_fireball
+  - Skill_firewall
+  - Skill_firebolt
+  - Layer_2
+  - Layer_3
+  - Layer_0
+  - Layer_4
+  - Layer_1
+  - Occupied
+  - UnOccupied
+  - Slot
+  - Overlap
+  - Undefined
+  - ChestES
+  - HelmetES
+  - WeaponES
+  - PotionES
+  - Lazer
+  - None-Move
+  - Item
+  - Skill_mfire
+  - Skill_meteor
+  - Dia_Lazer
+  - Dia_Fire
+  - Node
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PathFinding
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 146832387
+    locked: 0
+  - name: 2
+    uniqueID: 1473719431
+    locked: 0
+  - name: 3
+    uniqueID: 3878370205
+    locked: 0
+  - name: DiabloMap
+    uniqueID: 3487539733
+    locked: 0
+  - name: 5
+    uniqueID: 3095845485
+    locked: 0
+  - name: Player
+    uniqueID: 3294522771
+    locked: 0
+  - name: 7
+    uniqueID: 2267973553
+    locked: 0
+  - name: 8
+    uniqueID: 470288933
+    locked: 0
+  - name: 9
+    uniqueID: 243152719
+    locked: 0
+  - name: New Layer
+    uniqueID: 3525530881
+    locked: 0
